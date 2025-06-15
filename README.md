@@ -54,7 +54,7 @@ Completed Codecademey C++ course in summer of 2020
 
 ## Lesson 6.1 UFO Hangman
 * Simple hangman game intended to complete a combination of objectives
-* Including separate "functions" source file document for cleaner, more readable code (ufo_functions.h, ufo_fuinctions.cpp in this case)
+* Including separate "functions" source file document for cleaner, more readable code (ufo_functions.h, ufo_functions.cpp in this case)
 * Using a while loop to control the game state
 * Pass messages between functions
 * logical organization
